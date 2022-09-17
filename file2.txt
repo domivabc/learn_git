@@ -1,1 +1,2 @@
 This is file 2.
+This line has been created in the second commit.
